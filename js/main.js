@@ -187,7 +187,7 @@ $(function() {
                     revslider_showDoubleJqueryError(".countdown");
                 } else {
                     countdown = tpj(".countdown").show().countdown({
-                        date: "01 Jan 2021 00:01:00", //set your date and time. EX: 15 May 2014 12:00:00
+                        date: "07 May 2022 00:00:00", //set your date and time. EX: 15 May 2014 12:00:00
                         format: "on"
                     });
                 }

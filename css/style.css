@@ -378,7 +378,22 @@ a:hover, a:active {
 
 .logo {
   padding: 15px 0;
-  width: 125px; }
+}
+
+.logo span {
+  color: #FFF;
+  font-size: larger;
+  margin-left: 10px;
+}
+
+.nav-scroll .logo span {
+  color: #000;
+}
+
+.logo img {
+  height: 44px;
+}
+
 
 @media screen and (min-width: 992px) {
   .navbar-expand-lg .navbar-collapse.desktop-hide {
